@@ -1,10 +1,9 @@
 <script>
+    import '$lib/styles/style.css';
     import Header from '$lib/components/Header.svelte';
 </script>
 
 <style>
-  /* You can add more styles specific to your component here */
-
   .container {
     display: flex;
     justify-content: center;

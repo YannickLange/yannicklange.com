@@ -1,5 +1,11 @@
 body {
     font-family: 'iA Writer Quattro', sans-serif;
+    background-color: #F1F1EB;
+    color: #333;
+}
+
+a {
+    color: #333;
 }
 
 .centered-container {
